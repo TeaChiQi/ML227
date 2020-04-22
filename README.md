@@ -1,6 +1,6 @@
 # ML227
 
-##Gradient Descent with Linear Regression
+## Gradient Descent with Linear Regression
 
 1. Data importation
 	LoadDataSet
